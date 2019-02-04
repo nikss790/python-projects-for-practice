@@ -1,2 +1,3 @@
 # python-projects-for-practice
 python problem statements to help python enthusiasts to learn more and more...
+Please try to solve the problems statement in pythonic way i.e mostly in one line and use in built functions such lambda, list comprehensions, map , filter and reduce wherever these are required.
